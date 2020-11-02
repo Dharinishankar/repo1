@@ -1,0 +1,62 @@
+[33mcommit 8d865db2c095309883820197f69777d697b3c87d[m[33m ([m[1;36mHEAD[m[33m, [m[1;33mtag: finaltag[m[33m, [m[1;31morigin/newbranch[m[33m, [m[1;32mnewbranch[m[33m)[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 20:31:07 2020 +0530
+
+    annoying commit
+
+[33mcommit 077280a4cec79dee09ef76233fbdc2a6877d3a98[m
+Merge: 31a4cd3 659523b
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 20:26:47 2020 +0530
+
+    Merge tag 'third_tag' into newbranch
+    jst try
+    some third tag
+
+[33mcommit 31a4cd35cd39f4f4eb4455757433bf654460746a[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 20:25:01 2020 +0530
+
+    first commit in new branch
+
+[33mcommit 659523bbe69465ae05145fecfbe24bae13a2375a[m[33m ([m[1;33mtag: third_tag[m[33m)[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 20:09:02 2020 +0530
+
+    some random file
+
+[33mcommit 9428f0707cc2990331ad4ecfa4b8c65f1f3fdbea[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 20:07:19 2020 +0530
+
+    third tag to be
+
+[33mcommit 596e5780b12db83ac059c6a1d6f6ce8205ba4796[m[33m ([m[1;33mtag: sectag[m[33m)[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 19:42:42 2020 +0530
+
+     mod file1 txt gain
+
+[33mcommit 6b4b0b5d9dad0177f9c7b23ecff8629cae3c91b2[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 19:40:01 2020 +0530
+
+     mod file1 txt gain
+
+[33mcommit 44b82df9bc72a3cd80e0bf4359f8bdd8023f9a45[m[33m ([m[1;33mtag: firsttag[m[33m)[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 17:24:28 2020 +0530
+
+    modifiefd file1
+
+[33mcommit 98cad27587e58dba3ff325fa7c2895991e382e5e[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 17:19:16 2020 +0530
+
+    commit from first branch
+
+[33mcommit 1443de6eb032f5f6447634be9dccffcbd8a79b28[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: DhariniShankar <dharinisankargit@gmail.com>
+Date:   Mon Nov 2 17:14:59 2020 +0530
+
+    first commit
